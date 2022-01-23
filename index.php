@@ -50,7 +50,6 @@
                 <section>
                     <!-- Article -->
                     <article>
-                        <!-- <img src="./assets/images/magic-forest.png" alt="" class="magic-forest"> -->
                         <p class="content">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia sint<br>
                             provident corporis sapiente quas ut? Omnis nemo distinctio quidem inventore<br>

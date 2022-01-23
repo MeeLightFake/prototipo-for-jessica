@@ -1,0 +1,15 @@
+nav ul li.element a,
+nav ul li.element a:active {
+    left: -32px !important;
+    top: 3px !important;
+}
+
+.container {
+    margin-top: 50px !important;
+    margin-left: 40px !important;
+}
+
+.imagen {
+    height: 50px;
+    width: 50px;
+}

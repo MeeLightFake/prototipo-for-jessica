@@ -1,0 +1,8 @@
+:root {
+    --main-background: #a4afb6;
+    --header-background-color: #182733;
+    --main-box-shadow: 0 1px 10px 1px rgba(0, 0, 0, 0.2);
+    --main-font: lighter normal 20px 'Arial';
+	--primary-color: #fff;
+	--secondary-color: #000;
+}

@@ -66,7 +66,7 @@
                         <?php
                         include_once('./../models/Database.php');
 
-                        #Creando la conexión
+                        # Creando la conexión
                         $connection = Database::connect();
                                     
                         # query
@@ -104,7 +104,7 @@
                                 </thead>
                                 <tbody>
                                     <?php
-                                    #Creando la conexión
+                                    # Creando la conexión
                                     $connection = Database::connect();
 
                                     # query
@@ -151,7 +151,7 @@
                                             . $row['status']
                                         . '</td>';
                                         
-                                        # Botón de activar curso
+                                        # Botón de editar
                                         echo '<td>'
                                             . '<a href="./update-form.php?id='
                                             . $row['id']
@@ -162,7 +162,7 @@
                                                 . '</button>'
                                             . '</a>';
 
-                                        # Botón de eliminar
+                                        # Botón de activar
                                         echo ''
                                             . '<a href="./../crud/activate.php?id='
                                             . $row['id']
